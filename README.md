@@ -23,9 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='![Kapture 2023-01-06 at 02 19 40](https://user-images.githubusercontent.com/75638994/210985262-3451af90-240c-437f-9b80-da619ab352c5.gif)' title='Video Walkthrough' width='100px' alt='Video Walkthrough' />
+<img src='https://user-images.githubusercontent.com/75638994/210987590-7de5823c-5bc6-465b-9249-9fec590b54d1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with Recordit 
+GIF created with Kap 
 
 ## Notes
 
