@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://recordit.co/vkBD6ICIdT.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[https://recordit.co/vkBD6ICIdT.gif](https://recordit.co/tMWWAhm538.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Recordit 
 
