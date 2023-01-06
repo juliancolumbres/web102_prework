@@ -23,8 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://recordit.co/vkBD6ICIdT.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![prework](https://user-images.githubusercontent.com/75638994/210981814-a980a20e-69f2-43ff-b2c8-3cdfe7466503.gif)
+<img src='![Kapture 2023-01-06 at 02 19 40](https://user-images.githubusercontent.com/75638994/210985262-3451af90-240c-437f-9b80-da619ab352c5.gif)' title='Video Walkthrough' width='100px' alt='Video Walkthrough' />
 
 GIF created with Recordit 
 
