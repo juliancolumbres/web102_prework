@@ -24,6 +24,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='https://recordit.co/vkBD6ICIdT.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![prework](https://user-images.githubusercontent.com/75638994/210981814-a980a20e-69f2-43ff-b2c8-3cdfe7466503.gif)
 
 GIF created with Recordit 
 
